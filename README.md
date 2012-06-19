@@ -1,5 +1,6 @@
 blitz
 =====
+backed clone from http://alexeyrybak.com/blitz
 
 Blitz templates, template engine extension for PHP
 
